@@ -1,0 +1,16 @@
+{
+  "name": "INESP — Instituto Nacional de Ensino, Sociedade e Pesquisa",
+  "short_name": "INESP",
+  "start_url": "../",
+  "display": "standalone",
+  "background_color": "#fbfaf6",
+  "theme_color": "#102a43",
+  "icons": [
+    {
+      "src": "../imagens/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
+
